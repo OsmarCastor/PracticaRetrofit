@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PracticaRetrofit</string>
+    <string name="lista">Lista Personas</string>
+    <string name="persona">Agregar Persona</string>
+    <string name="agregar">Agregar</string>
+</resources>
